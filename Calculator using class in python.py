@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 23 19:36:35 2020
 
-@author: Hp
+@author: Susankhya Mool
 """
 
 class Mathmatics:
