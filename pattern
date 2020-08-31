@@ -1,0 +1,15 @@
+# Susankhya
+
+# Progrm to draw the pattern
+#           #####
+#          #####
+#         #####
+#        #####
+#       #####
+num = int(input("Enter the number : "))
+for i in range(0,num):
+    for j in range(num-i):
+        print(' ',end='')
+    for k in range(num):
+        print('#',end='')
+    print("")
